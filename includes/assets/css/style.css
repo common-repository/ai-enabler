@@ -1,0 +1,1059 @@
+/* add css for form style one start here */
+
+#rgfb-form-div {
+    max-width: 100%;
+}
+
+#rgfb-form-div .formstyle1 {
+    background: #f3f3f3;
+    padding: 30px 40px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    font-family: 'Roboto', sans-serif;
+}
+
+#rgfb-form-div .formstyle1 h1 {
+    color: #000000;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+#rgfb-form-div .formstyle1 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle1 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+}
+
+#rgfb-form-div .formstyle1 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    padding: 0 0 0 12px;
+}
+
+#rgfb-form-div .formstyle1 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    padding: 0 0 0 12px;
+}
+
+#rgfb-form-div .formstyle1 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 25px;
+    height: 90px !important;
+    color: #000000;
+    border-radius: 8px;
+    padding: 0 0 0 12px;
+    resize: none;
+}
+
+#rgfb-form-div .formstyle1 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 8px;
+    margin-top: 5px;
+    background: #42dfff;
+    color: #ffffff;
+}
+
+#rgfb-form-div .formstyle1 button.btn:hover {
+    background: #039ebd;
+}
+
+#rgfb-form-div .formstyle1 .radio-group,
+#rgfb-form-div .formstyle1 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle1 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle1 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle1 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle1 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style one ends here */
+
+/* add css for form style Two start here */
+
+#rgfb-form-div .formstyle2 {
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(173, 232, 252, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(173, 232, 252, 1);
+    box-shadow: 0px 2px 23px -2px rgba(173, 232, 252, 1);
+    font-family: 'Open Sans', sans-serif;
+}
+
+#rgfb-form-div .formstyle2 h1 {
+    color: #40d0ff;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+#rgfb-form-div .formstyle2 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle2 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    border: #40d0ff 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle2 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    padding: 0 0 0 12px;
+    border: #40d0ff 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle2 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    padding: 0 0 0 12px;
+    border: #40d0ff 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle2 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 25px;
+    height: 90px !important;
+    color: #000000;
+    border-radius: 8px;
+    padding: 0 0 0 12px;
+    resize: none;
+    border: #40d0ff 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle2 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 8px;
+    margin-top: 5px;
+    background: #40d0ff;
+    color: #ffffff;
+    border: #40d0ff 1px solid;
+}
+
+#rgfb-form-div .formstyle2 button.btn:hover {
+    background: #15c5ff;
+    border: #15c5ff 1px solid;
+}
+
+#rgfb-form-div .formstyle2 .radio-group,
+#rgfb-form-div .formstyle2 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle2 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle2 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle2 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle2 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style Two ends here */
+
+
+
+/* add css for form style Three start here */
+
+#rgfb-form-div .formstyle3 {
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 0;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(170, 240, 209, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(170, 240, 209, 1);
+    box-shadow: 0px 2px 23px -2px rgba(170, 240, 209, 1);
+    font-family: 'Lato', sans-serif;
+}
+
+#rgfb-form-div .formstyle3 h1 {
+    color: #009b62;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+#rgfb-form-div .formstyle3 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle3 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 0;
+    border: #009b62 1px solid;
+    background: #e1f4ea;
+}
+
+#rgfb-form-div .formstyle3 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 0;
+    padding: 0 0 0 12px;
+    border: #009b62 1px solid;
+    background: #e1f4ea;
+}
+
+#rgfb-form-div .formstyle3 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 0;
+    padding: 0 0 0 12px;
+    border: #009b62 1px solid;
+    background: #e1f4ea;
+}
+
+#rgfb-form-div .formstyle3 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 25px;
+    height: 90px !important;
+    color: #000000;
+    border-radius: 0;
+    padding: 0 0 0 12px;
+    resize: none;
+    border: #009b62 1px solid;
+    background: #e1f4ea;
+}
+
+#rgfb-form-div .formstyle3 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 0;
+    margin-top: 5px;
+    background: #004f32;
+    color: #ffffff;
+    border: #004f32 1px solid;
+}
+
+#rgfb-form-div .formstyle3 button.btn:hover {
+    background: #009b62;
+    border: #009b62 1px solid;
+}
+
+#rgfb-form-div .formstyle3 .radio-group,
+#rgfb-form-div .formstyle3 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle3 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle3 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle3 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle3 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style Three ends here */
+
+
+/* add css for form style Four start here */
+
+#rgfb-form-div .formstyle4 {
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 0;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    font-family: 'Poppins', sans-serif;
+}
+
+#rgfb-form-div .formstyle4 h1 {
+    color: #000000;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#rgfb-form-div .formstyle4 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle4 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle4 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    padding: 0 0 0 12px;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle4 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    padding: 0 0 0 12px;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle4 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 25px;
+    height: 90px !important;
+    color: #000000;
+    border-radius: 20px;
+    padding: 0 0 0 12px;
+    resize: none;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle4 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 25px;
+    margin-top: 5px;
+    background: #000000;
+    color: #ffffff;
+    border: #000000 1px solid;
+}
+
+#rgfb-form-div .formstyle4 button.btn:hover {
+    background: #222222;
+    border: #222222 1px solid;
+}
+
+#rgfb-form-div .formstyle4 .radio-group,
+#rgfb-form-div .formstyle4 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle4 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle4 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle4 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle4 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style Four ends here */
+
+
+/* add css for form style Five start here */
+
+#rgfb-form-div .formstyle5 {
+    background: #000000;
+    padding: 30px 40px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    font-family: 'Poppins', sans-serif;
+}
+
+#rgfb-form-div .formstyle5 h1 {
+    color: #ffffff;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#rgfb-form-div .formstyle5 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #ffffff;
+}
+
+#rgfb-form-div .formstyle5 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle5 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    padding: 0 5px 0 12px;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle5 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    padding: 0 0 0 12px;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle5 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 30px;
+    height: 90px !important;
+    color: #000000;
+    border-radius: 20px;
+    padding: 0 0 0 12px;
+    resize: none;
+    border: #000000 1px solid;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle5 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 25px;
+    margin-top: 5px;
+    background: #c40a4f;
+    color: #ffffff;
+    border: #c40a4f 1px solid;
+}
+
+#rgfb-form-div .formstyle5 button.btn:hover {
+    background: #99063c;
+    border: #99063c 1px solid;
+}
+
+#rgfb-form-div .formstyle5 .radio-group,
+#rgfb-form-div .formstyle5 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle5 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle5 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle5 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle5 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style Five ends here */
+
+
+
+/* add css for form style Six start here */
+
+#rgfb-form-div .formstyle6 {
+    padding: 30px 40px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    font-family: 'Poppins', sans-serif;
+    background: rgb(0, 212, 255);
+    background: linear-gradient(0deg, rgba(0, 212, 255, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 1) 100%);
+}
+
+#rgfb-form-div .formstyle6 h1 {
+    color: #c40a4f;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#rgfb-form-div .formstyle6 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle6 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    border: #00d4ff 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+}
+
+#rgfb-form-div .formstyle6 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    padding: 0 5px 0 12px;
+    border: #00d4ff 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+}
+
+#rgfb-form-div .formstyle6 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 25px;
+    padding: 0 0 0 12px;
+    border: #00d4ff 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+}
+
+#rgfb-form-div .formstyle6 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 30px;
+    height: 90px !important;
+    color: #000000;
+    border-radius: 20px;
+    padding: 0 0 0 12px;
+    resize: none;
+    border: #00d4ff 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+}
+
+#rgfb-form-div .formstyle6 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 25px;
+    margin-top: 5px;
+    /* background: #c40a4f; */
+    color: #ffffff;
+    border: #c40a4f 1px solid;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+
+    background: rgb(196, 10, 79);
+    background: linear-gradient(300deg, rgba(196, 10, 79, 1) 0%, rgba(196, 10, 79, 1) 30%, rgba(255, 70, 139, 1) 100%);
+}
+
+#rgfb-form-div .formstyle6 button.btn:hover {
+    /* background: #99063c; */
+    background: rgb(196, 10, 79);
+    background: linear-gradient(130deg, rgba(196, 10, 79, 1) 0%, rgba(196, 10, 79, 1) 30%, rgba(255, 70, 139, 1) 100%);
+    border: #99063c 1px solid;
+}
+
+#rgfb-form-div .formstyle6 .radio-group,
+#rgfb-form-div .formstyle6 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle6 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle6 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle6 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle6 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style Six ends here */
+
+
+/* add css for form style Seven start here */
+
+#rgfb-form-div .formstyle7 {
+    padding: 40px 60px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    font-family: 'Poppins', sans-serif;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle7 h1 {
+    color: #000000;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#rgfb-form-div .formstyle7 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle7 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    border: #dbdbdb 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle7 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    padding: 0 5px 0 12px;
+    border-radius: 8px;
+    border: #dbdbdb 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle7 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    padding: 0 0 0 12px;
+    border-radius: 8px;
+    border: #dbdbdb 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle7 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 30px;
+    height: 90px !important;
+    color: #000000;
+    padding: 0 0 0 12px;
+    resize: none;
+    border-radius: 8px;
+    border: #dbdbdb 1px solid;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle7 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 8px;
+    margin-top: 5px;
+    color: #ffffff;
+    border: #01a6e0 1px solid;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    background: #01a6e0;
+    width: 100%;
+}
+
+#rgfb-form-div .formstyle7 button.btn:hover {
+    background: #028fc1;
+}
+
+#rgfb-form-div .formstyle7 .radio-group,
+#rgfb-form-div .formstyle7 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle7 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle7 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle7 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle7 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style Seven ends here */
+
+
+/* add css for form style eight start here */
+
+#rgfb-form-div .formstyle8 {
+    padding: 40px 60px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    box-shadow: 0px 2px 23px -2px rgba(204, 204, 204, 1);
+    font-family: 'Poppins', sans-serif;
+    background: #ffffff;
+}
+
+#rgfb-form-div .formstyle8 h1 {
+    color: #000000;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#rgfb-form-div .formstyle8 label {
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#rgfb-form-div .formstyle8 input[type="text"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    border-radius: 8px;
+    border: #b7b6ff 1px solid;
+    background: #eaedf2;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle8 input[type="number"] {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    padding: 0 5px 0 12px;
+    border-radius: 8px;
+    border: #b7b6ff 1px solid;
+    background: #eaedf2;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle8 .rendered-form select {
+    font-size: 15px;
+    line-height: 44px;
+    height: 44px;
+    color: #000000;
+    padding: 0 0 0 12px;
+    border-radius: 8px;
+    border: #b7b6ff 1px solid;
+    background: #eaedf2;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle8 .rendered-form textarea {
+    font-size: 15px;
+    line-height: 30px;
+    height: 90px !important;
+    color: #000000;
+    padding: 0 0 0 12px;
+    resize: none;
+    border-radius: 8px;
+    border: #b7b6ff 1px solid;
+    background: #eaedf2;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+}
+
+#rgfb-form-div .formstyle8 button.btn {
+    font-size: 15px;
+    line-height: 44px;
+    text-transform: uppercase;
+    padding: 0 40px;
+    border-radius: 8px;
+    margin-top: 5px;
+    color: #ffffff;
+    border: #817ffe 1px solid;
+    -webkit-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    -moz-box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    box-shadow: 0px 2px 23px -2px rgba(228, 228, 228, 1);
+    background: #817ffe;
+    width: 100%;
+}
+
+#rgfb-form-div .formstyle8 button.btn:hover {
+    background: #7371fd;
+}
+
+#rgfb-form-div .formstyle8 .radio-group,
+#rgfb-form-div .formstyle8 .checkbox-group {
+    display: flex;
+}
+
+#rgfb-form-div .formstyle8 .radio-group .formbuilder-radio,
+#rgfb-form-div .formstyle8 .radio-group .formbuilder-checkbox {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-div .formstyle8 .radio-group .formbuilder-radio label,
+#rgfb-form-div .formstyle8 .radio-group .formbuilder-checkbox label {
+    padding: 0;
+    margin: 0;
+}
+
+/* add css for form style eight ends here */
+
+
+
+/* add css for custom style start here */
+
+
+#rgfb-form-render {
+    padding: 40px 50px;
+    border-radius: 15px;
+}
+
+#rgfb-form-render h1 {
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+#rgfb-form-render label {
+    font-weight: 700;
+}
+
+#rgfb-form-render input[type="text"],
+#rgfb-form-render input[type="number"] {
+    height: 40px;
+    border-radius: 10px;
+}
+
+#rgfb-form-render select {
+    height: 40px;
+    border-radius: 10px;
+}
+
+#rgfb-form-render textarea {
+    height: 100px;
+    border-radius: 15px;
+    resize: none;
+}
+
+#rgfb-form-render .formbuilder-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rgfb-form-render button {
+    padding: 10px 50px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+/* add css for custom style start here */
+
+/* Show output charecter by charecter */
+#ai-output {
+    font-size: 18px;
+    white-space: pre-wrap;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink-caret {
+
+    from,
+    to {
+        border-color: transparent;
+    }
+
+    50% {
+        border-color: #000;
+    }
+}
+
+/* End of show output charecter by charecter */
+
+/* Typing loader */
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    background-color: #333;
+    border-radius: 50%;
+    margin: 0 6px;
+    animation: typing 1s infinite;
+}
+
+@keyframes typing {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+/* End of typing loader */
+
+/* #rgfb-form-div .radio-group {
+    float: left;
+} */
+
+.rendered-form.formbuilder-embedded-bootstrap .form-group {
+    margin-left: 0px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+#rgfb-form-div .radio-group .formbuilder-radio {
+    margin-right: 20px;
+    float: left;
+}
+
+#rgfb-form-div select[multiple] {
+    height: 100px;
+    font-size: 15px;
+}
+
+.formbuilder-text:has(.text-prompt), .formbuilder-text:has(.image-prompt), .formbuilder-text:has(.audio-prompt) {
+    display: none;
+}
